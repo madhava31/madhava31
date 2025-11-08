@@ -29,22 +29,22 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gunjimadhav&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gunjimadhav&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=madhava31&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhava31&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 ---
 
 ### 🧠 Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gunjimadhav&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhava31&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gunjimadhav&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=madhava31&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -71,7 +71,7 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gunjimadhav&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=madhava31&color=brightgreen" alt="Profile views"/>
 </p>
 
 <p align="center">
