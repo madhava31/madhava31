@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Madhav!
 
-<!--
-**madhava31/madhava31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 About Me
+- 🎓 Student passionate about AI, Web Development, and Data Science
+- 🌱 Currently learning FastAPI, Gradio, and LLMs
+- 💬 Ask me about: Python, Java, SQL, and ML
+- ⚡ Fun fact: I love building voice-based apps
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+![Madhav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunjimadhav&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gunjimadhav&layout=compact&theme=tokyonight)
+
+### 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=gunjimadhav&theme=onedark)
+
+### 📫 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link/)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-link.com)
