@@ -6,7 +6,7 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Madhav</span>!</h1>
 
 <p align="center">
-  <em>🚀 AI Enthusiast | 💻 Web Developer | 🤖 Machine Learning Explorer</em>
+  <em>🚀 AI Enthusiast | 🤖 Machine Learning Explorer</em>
 </p>
 
 ---
