@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="220px">
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Gungi Madhava</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Madhava</span></h1>
 
 <p align="center">
   <em>🚀 AI & Data Science Undergraduate | 🤖 ML/LLM Developer | 🧠 GenAI Explorer</em>
@@ -30,55 +30,42 @@
 
 ---
 
-<h2>🔧 Tech Stack</h2>
+## 🔧 Tech Stack
 
-<!-- Programming Languages -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-</div>
+<p align="left">
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-</div>
+<!-- AI / LLM -->
+<img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/HuggingFace-000000?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" />
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-FF8C00?style=for-the-badge&logo=xgboost&logoColor=white"/>
-</div>
+<!-- Vector DB / RAG -->
+<img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Chroma-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
 
-<!-- GenAI Tools -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Hugging%20Face-000000?style=for-the-badge&logo=huggingface&logoColor=yellow"/>
-  <img src="https://img.shields.io/badge/LangChain-1C1C1C?style=for-the-badge&logo=chainlink&logoColor=white"/>
-</div>
+<!-- ML / DL -->
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/FAISS-0099CC?style=for-the-badge&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</div>
+<!-- Backend / Frameworks -->
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=white" />
 
-<!-- Frameworks -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Gradio-3E6BE6?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
-</div>
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 
-<!-- Database + Tools -->
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
-</div>
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</div>
+</p>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
 
 
 ---
