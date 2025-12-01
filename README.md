@@ -1,38 +1,39 @@
-<!-- Profile Header GIF -->
+<!-- Profile Header GIF (Black & White Theme) -->
 <p align="center">
   <img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="220px">
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Madhava</span></h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#ffffff;">Madhava</span></h1>
 
 <p align="center">
-  <em>🚀 AI & Data Science Undergraduate | 🤖 ML/LLM Developer | 🧠 GenAI Explorer</em>
+  <em>⚪ AI & Data Science Undergraduate | ⚫ ML/LLM Developer | ⚪ GenAI Explorer</em>
 </p>
 
 ---
 
-## 🎓 **About Me**
-- 🎓 **B.Tech in AI & Data Science (KL University, 2026)**  
-- 💡 Passionate about **ML, LLMs, and GenAI systems**  
-- 🛠️ I build **AI-powered apps, ML models, and RAG systems**  
-- 🌱 Currently learning **FastAPI, Gradio, LLM Pipelines**  
-- ⚡ Fun fact: Music boosts my debugging speed 🎧🔥  
+## 🖋️ **About Me**
+- B.Tech in **AI & Data Science (2026)**  
+- Passionate about **Machine Learning, LLMs, and GenAI systems**  
+- Build **AI applications, ML pipelines, and RAG systems**  
+- Learning **FastAPI, Gradio & LLM API Pipelines**  
+- Debugging hits different with music 🎧  
 
 ---
 
 ## 🧠 **Featured Project**
-### 🔍 **PDFInsight – RAG-based PDF Q&A System**  
-**Tech:** Python, LangChain, HuggingFace, FAISS, Gradio  
-- Built a complete **RAG pipeline** for PDF-based question answering  
-- Implemented **embeddings, vector search**, and **context retrieval**  
-- Integrated **HuggingFace LLMs** for intelligent answer generation  
-- Designed a **Gradio UI** for interactive querying and visualization  
+### **PDFInsight – RAG-based PDF Q&A System**  
+**Tech:** Python · LangChain · HuggingFace · FAISS · Gradio  
+
+- Built a complete **RAG pipeline**  
+- Implemented **embeddings, vector search & context retrieval**  
+- Used **HuggingFace LLMs** for intelligent contextual answers  
+- Designed an interactive **Gradio UI**  
 
 ---
 
-## 🔧 Tech Stack
+## ⚙️ **Tech Stack (Black & White Theme)**  
 
-<p align="left">
+<p align="center">
 
 <!-- AI / LLM -->
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" />
@@ -66,8 +67,6 @@
 
 </p>
 
-
-
 ---
 
 ## 📊 **GitHub Stats**
@@ -78,7 +77,7 @@
 
 ---
 
-## 🧠 **Top Languages**
+## 🧩 **Top Languages**
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=madhava31&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
@@ -94,15 +93,15 @@
 
 ## 🤝 **Connect With Me**
 <p align="center">
-  <a href="mailto:2210080072aids@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="tel:+916301892920"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=android&logoColor=white"/></a>
+  <a href="mailto:2210080072aids@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="tel:+916301892920"><img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=android&logoColor=white"/></a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=madhava31&color=brightgreen" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=madhava31&color=lightgrey" alt="Profile views"/>
 </p>
 
 <p align="center">
