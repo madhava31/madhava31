@@ -84,13 +84,6 @@
 
 ---
 
-## 🏆 **GitHub Trophies**
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhava31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
-</p>
-
----
-
 ## 🤝 **Connect With Me**
 <p align="center">
   <a href="mailto:2210080072aids@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
