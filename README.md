@@ -31,7 +31,7 @@
 
 ---
 
-## ⚙️ **Tech Stack (Black & White Theme)**  
+## ⚙️ **Tech Stack**  
 
 <p align="center">
 
