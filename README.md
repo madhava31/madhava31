@@ -1,6 +1,6 @@
 <!-- Profile Header GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/QVPd2wvdZW7OQ/giphy.gif" width="200px">
+  <img src="[https://media.giphy.com/media/QVPd2wvdZW7OQ/giphy.gif](https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif)" width="200px">
 </p>
 
 <h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Gungi Madhava</span></h1>
