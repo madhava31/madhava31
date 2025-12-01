@@ -94,5 +94,5 @@
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60px"><br>
-  <em>“Code. Learn. Build. Repeat.”</em>
+  <em>“Hard work beats talent when talent doesn’t work hard.”</em>
 </p>
