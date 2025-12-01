@@ -3,69 +3,67 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px">
 </p>
 
-<h1 align="center">👋 Hey there, I'm <span style="color:#00bcd4;">Madhav</span>!</h1>
+<h1 align="center">👋 Hey, I'm <span style="color:#00bcd4;">Gungi Madhava</span></h1>
 
 <p align="center">
-  <em>🚀 AI Enthusiast | 🤖 Machine Learning Explorer</em>
+  <em>🚀 AI & Data Science Undergraduate | 🤖 ML/LLM Developer | 🧠 GenAI Explorer</em>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Passionate **Student Developer** exploring AI, Web, and Data Science  
-- 🌱 Currently learning **FastAPI**, **Gradio**, and **LLMs**  
-- 🧩 Love building intelligent & interactive apps (especially voice-based)  
-- 💬 Ask me about **Python**, **Java**, **SQL**, **Machine Learning**, and **APIs**  
-- ⚡ Fun fact: I debug faster with music 🎧  
+## 🎓 **About Me**
+- 🎓 **B.Tech in AI & Data Science (KL University, 2026)**  
+- 💡 Passionate about **ML, LLMs, and GenAI systems**  
+- 🛠️ I build **AI-powered apps, ML models, and RAG systems**  
+- 🌱 Currently learning **FastAPI, Gradio, LLM Pipelines**  
+- ⚡ Fun fact: Music boosts my debugging speed 🎧🔥  
 
 ---
 
-### 🚀 Languages & Tools
+## 🧠 **Featured Project**
+### 🔍 **PDFInsight – RAG-based PDF Q&A System**  
+**Tech:** Python, LangChain, HuggingFace, FAISS, Gradio  
+- Built a complete **RAG pipeline** for PDF-based question answering  
+- Implemented **embeddings, vector search**, and **context retrieval**  
+- Integrated **HuggingFace LLMs** for intelligent answer generation  
+- Designed a **Gradio UI** for interactive querying and visualization  
+
+---
+
+## 🛠️ **Tech Stack**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,fastapi,react,mysql,git,github,vscode,html,css,js,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,java,tensorflow,sklearn,fastapi,git,github,mysql,js,html,css,vscode,linux&perline=6" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madhava31&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=madhava31&theme=tokyonight&hide_border=true" height="180em" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=madhava31&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=madhava31&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🧠 Top Languages
+## 🧠 **Top Languages**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhava31&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 **GitHub Trophies**
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=madhava31&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=madhava31&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
 
-### 🌱 Current Focus
-> 💡 *Building a Grammar Scoring Engine for Voice Samples* using FastAPI + ML  
-> 🎯 *Goal: To make voice-based English assessment smarter and faster.*
-
----
-
-### 🤝 Connect with Me
+## 🤝 **Connect With Me**
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://your-portfolio-link.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
+  <a href="mailto:2210080072aids@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="tel:+916301892920"><img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=android&logoColor=white"/></a>
 </p>
 
 ---
@@ -75,6 +73,6 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60px">  
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="60px"><br>
   <em>“Code. Learn. Build. Repeat.”</em>
 </p>
