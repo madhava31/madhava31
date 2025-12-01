@@ -42,13 +42,10 @@
 
 <!-- Vector DB / RAG -->
 <img src="https://img.shields.io/badge/FAISS-000000?style=for-the-badge&logo=meta&logoColor=white" />
-<img src="https://img.shields.io/badge/Chroma-000000?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
 
 <!-- ML / DL -->
 <img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
 <img src="https://img.shields.io/badge/Scikit--Learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=white" />
 
 <!-- Backend / Frameworks -->
 <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -57,12 +54,10 @@
 
 <!-- Databases -->
 <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 <!-- Tools -->
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 
 </p>
