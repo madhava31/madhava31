@@ -82,9 +82,9 @@
 ## 🤝 **Connect With Me**
 <p align="center">
   <a href="mailto:2210080072aids@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-link/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/gungi-madhava-740bb3259/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="tel:+916301892920"><img src="https://img.shields.io/badge/Phone-000000?style=for-the-badge&logo=android&logoColor=white"/></a>
-</p>
+</p
 
 ---
 
